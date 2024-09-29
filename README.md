@@ -1,8 +1,7 @@
 # kubevirt-manager.io
 
-**Website:** [kubevirt-manager.io](https://kubevirt-manager.io/)  
-**Maintainers:** [feitnomore](https://github.com/feitnomore/)  
-**Feedback/Feature Request:** [form](https://forms.gle/dGMmswVYjNGCk2jNA)
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 
 Simple Angular Frontend Web UI Interface to operate [Kubevirt](https://kubevirt.io/). This tools lets you perform basic operations around `Virtual Machines`, `Virtual Machine Instances`, `Virtual Machine Pools` and `Disks`. As the tool grew, other features got added like `Load Balancing`, `Auto Scaling`, `Monitoring` and `Cluster API` support. This tool was built initially based on requirements I had for my own environment at home and started growing as needed.  
 For a Quick Start, go to our website [https://kubevirt-manager.io/](https://kubevirt-manager.io/)  
@@ -202,12 +201,17 @@ npm test
 
 **kubevirt-manager.io** is licensed under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-
+I'm are always open to your feedback.  Please contact as bellow information:
 ### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
